@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eduhelp/static/css/main.0ac198c6.css",
+    "main.js": "/eduhelp/static/js/main.befc1804.js",
+    "static/js/787.e0254bbd.chunk.js": "/eduhelp/static/js/787.e0254bbd.chunk.js",
+    "static/media/logo(650).jpeg": "/eduhelp/static/media/logo(650).f0fd4691e0a6d48445f0.jpeg",
+    "index.html": "/eduhelp/index.html",
+    "main.0ac198c6.css.map": "/eduhelp/static/css/main.0ac198c6.css.map",
+    "main.befc1804.js.map": "/eduhelp/static/js/main.befc1804.js.map",
+    "787.e0254bbd.chunk.js.map": "/eduhelp/static/js/787.e0254bbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac198c6.css",
+    "static/js/main.befc1804.js"
+  ]
+}
