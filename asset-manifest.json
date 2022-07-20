@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/eduhelp/static/css/main.6893f93c.css",
-    "main.js": "/eduhelp/static/js/main.cce630cb.js",
+    "main.js": "/eduhelp/static/js/main.849fcbd3.js",
     "static/js/787.e0254bbd.chunk.js": "/eduhelp/static/js/787.e0254bbd.chunk.js",
     "static/media/logo(650).jpeg": "/eduhelp/static/media/logo(650).f0fd4691e0a6d48445f0.jpeg",
     "index.html": "/eduhelp/index.html",
     "main.6893f93c.css.map": "/eduhelp/static/css/main.6893f93c.css.map",
-    "main.cce630cb.js.map": "/eduhelp/static/js/main.cce630cb.js.map",
+    "main.849fcbd3.js.map": "/eduhelp/static/js/main.849fcbd3.js.map",
     "787.e0254bbd.chunk.js.map": "/eduhelp/static/js/787.e0254bbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6893f93c.css",
-    "static/js/main.cce630cb.js"
+    "static/js/main.849fcbd3.js"
   ]
 }
